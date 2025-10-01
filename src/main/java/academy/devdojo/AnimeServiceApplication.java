@@ -10,7 +10,7 @@ public class AnimeServiceApplication {
 
         SpringApplication.run(AnimeServiceApplication.class, args);
 
-        //testando o git para ver a funcionalidade
+
     }
 
 }
